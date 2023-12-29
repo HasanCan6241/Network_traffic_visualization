@@ -56,6 +56,6 @@ Ağ trafiği, folium kütüphanesi ve Google Haritaları kullanılarak görselle
 - Folium kütüphanesi
 - Google Maps API
 
-![Folium Kütüphanesi Aracığıyla Görselleştirilen Ağ Trafiği](uygulama.png)
+![Folium Kütüphanesi Aracığıyla Görselleştirilen Ağ Trafiği](Uygulama.png)
 ![Google Earth Aracığıyla Görselleştirilen Ağ Trafiği](yakalananAğ.png)
 
