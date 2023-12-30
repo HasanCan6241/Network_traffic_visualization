@@ -60,6 +60,10 @@ Ağ trafiği, folium kütüphanesi ve Google Haritaları kullanılarak görselle
 ![Google Earth Aracığıyla Görselleştirilen Ağ Trafiği](yakalananAğ.png)
 
 ## Akış Diyagramı
-![Akış Diyagramı](Akış_diyagramı.jpg)
+<center>
+<div style="text-align:center">
+  <img src="Akış_diyagramı.jpg" alt="Akış Diyagramı">
+</div>
+</center>
 
 
