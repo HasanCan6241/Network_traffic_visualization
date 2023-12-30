@@ -61,9 +61,9 @@ Ağ trafiği, folium kütüphanesi ve Google Haritaları kullanılarak görselle
 
 ## Akış Diyagramı
 <center>
-<div style="text-align:center">
-  <img src="Akış_diyagramı.jpg" alt="Akış Diyagramı">
-</div>
+  <div style="text-align:center">
+    <img src="Akış_diyagramı.jpg" alt="Akış Diyagramı">
+  </div>
 </center>
 
 
