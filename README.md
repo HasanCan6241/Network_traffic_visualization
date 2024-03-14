@@ -2,7 +2,7 @@
 
 Bu proje, ağ trafiğini analiz etmek ve Python ile Google Maps üzerinde simülasyon halinde görselleştirmek amacıyla geliştirilmiştir.
 
-## Amaç
+##Projenin  Amacı
 
 Projemizin temel amacı, Wireshark kullanarak ağa giren ve çıkan trafiği izlemek ve bu verileri coğrafi konumlara dönüştürerek dünya haritasında görselleştirmektir. Bu sayede cihazlarımıza giren ve çıkan verilerin hangi bölgelerden geldiğini anlamamızı ve ağımıza olası kötü niyetli saldırıları tespit etmemizi sağlar.
 
